@@ -47,8 +47,9 @@ wordcloud(words = d$word, freq = d$freq, min.freq = 1,scale=c(4,0.5),
           max.words=200, random.order=FALSE, rot.per=0.35, 
           colors=brewer.pal(8, "Dark2"))
           
-   ![WordCloud](https://user-images.githubusercontent.com/116072374/218509295-bff7802b-f036-4ecc-9a7e-fb26fc9857b4.jpeg)
+  ![WordCloud](https://user-images.githubusercontent.com/116072374/218510708-360e99c2-3bc8-401e-8fa2-8fddb9f65f5e.jpeg)
 
+##
 ##creating a Frequency bar plot
 barplot(d[1:20,]$freq, las = 2, names.arg = d[1:20,]$word,
         col ="lightblue", main ="Most frequent words",

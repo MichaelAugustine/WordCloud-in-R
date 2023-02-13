@@ -67,6 +67,10 @@ Pull Requests: If you have a change that you would like to contribute to the rep
 
 Commit changes: You can also make changes  on specific lines of code or on pull requests if you have specific feedback on a particular aspect of the repository.
 
+## Contact info
 
+Feel free to contact me to discuss any issues, questions, or comments.please reach out at michaelaugustine003@gmail.com
+
+My contact info can be found on my [GitHub page](https://github.com/MichaelAugustine).
 
     

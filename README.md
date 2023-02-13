@@ -54,7 +54,8 @@ barplot(d[1:20,]$freq, las = 2, names.arg = d[1:20,]$word,
         col ="lightblue", main ="Most frequent words",
         ylab = "Word frequencies")
         
-        ![Freq](https://user-images.githubusercontent.com/116072374/218508735-2f5a8af2-34ba-42e0-9bfd-0c3851ff6441.jpeg)
+  
+![Freq](https://user-images.githubusercontent.com/116072374/218509672-9447679e-e289-483b-a1e2-ebca6362c886.jpeg)
 
 
     

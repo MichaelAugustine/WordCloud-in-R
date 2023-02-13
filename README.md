@@ -49,7 +49,7 @@ wordcloud(words = d$word, freq = d$freq, min.freq = 1,scale=c(4,0.5),
           
   ![WordCloud](https://user-images.githubusercontent.com/116072374/218510708-360e99c2-3bc8-401e-8fa2-8fddb9f65f5e.jpeg)
 
-##
+## Frequency Plot
 ##creating a Frequency bar plot
 barplot(d[1:20,]$freq, las = 2, names.arg = d[1:20,]$word,
         col ="lightblue", main ="Most frequent words",
@@ -57,6 +57,16 @@ barplot(d[1:20,]$freq, las = 2, names.arg = d[1:20,]$word,
         
   
 ![Freq](https://user-images.githubusercontent.com/116072374/218509672-9447679e-e289-483b-a1e2-ebca6362c886.jpeg)
+
+## Feedback
+ If you have any feedback, You can provide feedback on a GitHub repository.
+
+Issues: You can file an issue on the repository if you have a bug to report, a feature request, or any other feedback that you would like to share with the repository maintainers. Issues can be used for discussions, questions, and bug reports.
+
+Pull Requests: If you have a change that you would like to contribute to the repository, you can create a pull request.
+
+Commit changes: You can also make changes  on specific lines of code or on pull requests if you have specific feedback on a particular aspect of the repository.
+
 
 
     
